@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useRouter } from "next/router"; // Import useRouter for navigation
 import Link from "next/link";
-import '../styles/login.module.css';
+import '../styles/login.css';
 
 const Login = () => {
   const [email, setEmail] = useState("");

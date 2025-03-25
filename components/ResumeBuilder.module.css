@@ -1,0 +1,35 @@
+.container {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .title {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .formContainer {
+    margin-bottom: 20px;
+  }
+  
+  .resumePreview {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .buttonContainer {
+    margin-top: 20px;
+  }
+  
+  .downloadBtn {
+    background-color: #0070f3;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .downloadBtn:hover {
+    background-color: #005bb5;
+  }

@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer';
 import '../styles/main.css'; // Import your CSS file
-import ResumeCode from '@/pages/ResumeCode1';
+// import ResumeCode from '@/pages/ResumeCode1';
 
 export default function Resume() {
     return (
@@ -13,7 +13,7 @@ export default function Resume() {
                 <meta name="description" content="Create your resume" />
             </Head>
             <Navbar />
-            <ResumeCode />
+            {/* <ResumeCode /> */}
             <Footer />
         </div>
     );
